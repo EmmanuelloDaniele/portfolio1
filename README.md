@@ -4,13 +4,6 @@ It is a highly customizable dev portfolio template that features astonishing 3D 
 
 It is built using [threejs](https://github.com/mrdoob/three.js), [react-three-fiber](https://github.com/pmndrs/react-three-fiber), and [@react-three/drei](https://github.com/pmndrs/drei).
 
-Created by Tomas Gonzalez.
-
-# Example: 
-https://tomasgonzalez.github.io/3d-portfolio/
-
-https://user-images.githubusercontent.com/26396804/193622132-c7e12305-3cbf-4c4c-8992-2f58104a5068.mp4
-
 
 # Get started!
 
@@ -57,5 +50,5 @@ And thats It! It will automatically deploy to `https://{username}.github.io/{rep
 
 # More info
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tomasgonzalez)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/emmanuellodaniele)
 
