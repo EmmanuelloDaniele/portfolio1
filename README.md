@@ -50,5 +50,5 @@ And thats It! It will automatically deploy to `https://{username}.github.io/{rep
 
 # More info
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/emmanuellodaniele)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/emmanuello)
 
